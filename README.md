@@ -1,5 +1,5 @@
 
-I'm Caio Teixeira, a Software Engineer and dev lovely since since 2004.
+I'm Caio Teixeira, a Software Engineer and dev lover since 2004.
 
 ![Linkedin: caio](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caio-teixeira-espirito-santo](https://www.linkedin.com/in/caio-teixeira-espirito-santo/))
 
