@@ -1,7 +1,7 @@
 
 I'm Caio Teixeira, a Software Engineer and dev lover since 2004.
 
-![Linkedin: caio](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caio-teixeira-espirito-santo](https://www.linkedin.com/in/caio-teixeira-espirito-santo/))
+![Linkedin: caio](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caio-teixeira-espirito-santo](https://www.linkedin.com/in/caio-teixeira-espirito-santo/)) ![Medium: caio](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=Medium&logoColor=white&link=[https://www.linkedin.com/in/caio-teixeira-espirito-santo](https://medium.com/@caioteixeira_73603)](https://medium.com/@caioteixeira_73603/))
 
 ## ⚡ Technologies
 
